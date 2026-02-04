@@ -1,0 +1,47 @@
+main {
+    display: flex;
+}
+footer {
+    clear: both;
+
+}
+
+#elo{
+    background-color: red;
+    height: 50px;
+}
+
+#MAIN{
+    background-color: teal;
+}
+
+#NAV{
+    background-color: aquamarine;
+    height: 60px;
+}
+#A1{
+    background-color: indianred;
+    height: 140px;
+    float: left;
+    width: 50%;
+}
+#A2{
+    background-color: orange;
+    height: 140px;
+    float: left;
+    width: 50%;
+}
+#AS{
+    background-color: mediumorchid;
+    height: 200px;
+}
+#FT{
+    background-color: blueviolet;
+    height: 50px;
+}
+#left{
+    width: 60%;
+}
+#right{
+    width: 40%;
+}
